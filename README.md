@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2> Hi there, welcome to my Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-<!--
-**sari6424/sari6424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Here are some ideas to get you started:
+I'm an undergrad student of biological engineering 🔬🧪🧬🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/sari6424/parcial_1">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sari6424&repo=parcial_1" alt="GitHub Stats" />
+
+  
+</div>
