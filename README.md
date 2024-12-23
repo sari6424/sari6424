@@ -22,3 +22,10 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sari6424&repo=parcial_2" alt="GitHub Stats" />
 
 </div>
+
+
+## Estadísticas del Repositorio
+
+<a href="https://github.com/sari6424/sari6424">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sari6424&repo=sari6424&cache_buster=1" alt="GitHub Stats" />
+</a>
