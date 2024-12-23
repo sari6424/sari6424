@@ -14,6 +14,11 @@ __Check out my GitHub repository:__
     <a href="https://github.com/sari6424/parcial_1">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sari6424&repo=parcial_1" alt="GitHub Stats" />
 
-  
 </div>
 
+<div>
+  <p>
+    <a href="https://github.com/sari6424/parcial_2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sari6424&repo=parcial_2" alt="GitHub Stats" />
+
+</div>
