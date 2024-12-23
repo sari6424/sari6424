@@ -19,7 +19,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/sari6424/parcial_2">
-
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sari6424&repo=parcial_1" alt="GitHub Stats" />
 
 </div>
 
